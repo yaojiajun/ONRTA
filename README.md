@@ -1,4 +1,4 @@
-# ONRTA:Non-rejection aware Online Task Assignment in Spatial Crowdsourcing
+# ONRTA: Non-rejection aware Online Task Assignment in Spatial Crowdsourcing
 This repository stores the source code of the solutions to the problem called ONRTA.
 
 ## Usage of the algorithms
