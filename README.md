@@ -10,7 +10,7 @@ OS: Ubuntu
 Compile the algorithms
 cd algorithm && make all
 
-Run the algorithms
+## Run the algorithms
 ./Random ./synthetic/workers/100_3000_1_6_0.5_6_10/data_00.txt
 
 ./Greedy ./synthetic/workers/100_3000_1_6_0.5_6_10/data_00.txt
@@ -25,7 +25,7 @@ Run the algorithms
 
 ./OPT ./real/EverySender_cap1/800/data_00.txt
 
-#Description of the datasets
+## Description of the datasets
 
 Environment
 Python: 2.7
@@ -44,5 +44,5 @@ dataset/real/EverySender*: incldues the datasets of EverySender
 
 Please refer to the source code for the format of the dataset.
 
-#Contact
+## Contact
 If you have any questions or concerns, please raise an issue or email: 201810102795@mail.scut.edu.cn
